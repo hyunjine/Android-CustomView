@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SleepDiary</string>
+    <string name="btn_change">변경</string>
+    <!-- MainActivity -->
+    <string name="btn_first">첫번째</string>
+    <string name="btn_second">두번째</string>
+    <string name="btn_third">세번째</string>
+    <string name="btn_fourth">네번째</string>
+    <string name="btn_fifth">다섯번째</string>
+
+</resources>

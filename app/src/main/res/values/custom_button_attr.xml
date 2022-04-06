@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MainCustomButton">
+        <attr name="bgDrawable" format="reference|color" />
+        <attr name="bgActive" format="reference|color" />
+        <attr name="bgInactive" format="reference|color" />
+        <attr name="isActive" format="reference|boolean" />
+        <attr name="text" format="reference|string" />
+    </declare-styleable>
+</resources>
