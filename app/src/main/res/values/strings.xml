@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SleepDiary</string>
+    <string name="app_name">CustomView</string>
     <string name="btn_change">변경</string>
     <!-- MainActivity -->
     <string name="btn_first">첫번째</string>
