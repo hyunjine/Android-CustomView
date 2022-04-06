@@ -1,5 +1,6 @@
 # Android-CustomView
-CustomVIew를 학습하고 실제 코드에 적용한 예제
+### CustomVIew를 학습하고 실제 코드에 적용한 예제
+---
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/92709137/162010450-130e62c9-1509-4e2c-87e1-139f9f93d089.png" width="30%"/>
